@@ -1,0 +1,197 @@
+{
+  "laptops": [
+    {
+      "id": 10,
+      "productName": "Huawei MateBook X Pro",
+      "image": "https://fdn.gsmarena.com/imgroot/news/20/02/maebook-x-pro-d-offic/-727/gsmarena_005.jpg",
+      "cpu": "Intel Core i7, 8th generation",
+      "ram": "8GB",
+      "storage": "512 GB SSD",
+      "screen": "13.9-inch, 3K (3,000 x 2,080)",
+      "brand": "huawei",
+      "price": "4999",
+      "description": "The Huawei MateBook X Pro is our pick for the best laptop money can buy in 2018. This is a gorgeously-designed laptop with a stunning screen (albeit with a rather odd aspect ratio), and it comes packed with cutting edge components that allows it to perform brilliantly, and a battery life that runs rings around many of its rivals. It also has a very competitive price, giving you features, design and performance for quite a bit less money."
+    },
+    {
+      "id": 11,
+      "productName": "Apple Macbook Pro 2018",
+      "image": "https://fdn.gsmarena.com/imgroot/news/20/02/maebook-x-pro-d-offic/-727/gsmarena_005.jpg",
+      "cpu": "6-core Intel i7, 8th generation",
+      "ram": "16GB",
+      "storage": "1TB GB SSD",
+      "screen": "15-inch Retina display",
+      "brand": "apple",
+      "price": 3199,
+      "description": "If you're after the latest and greatest laptop from Apple, we suggest you look into the 2018 model of the 15-inch MacBook Pro with Touch Bar. The headline Touch Bar – a thin OLED display at the top of the keyboard which can be used for any number of things, whether that be auto-suggesting words as you type or offering Touch ID so you can log in with just your fingerprint – is of course included. It's certainly retained Apple's sense of style, but it comes at a cost. This is a pricey machine, so you may want to consider one of the Windows alternatives. But, if you're a steadfast Apple diehard, this is definitely the best laptop for you!"
+    },
+    {
+      "id": 12,
+      "productName": "Dell XPS 13",
+      "image": "https://fdn.gsmarena.com/imgroot/news/20/02/maebook-x-pro-d-offic/-727/gsmarena_005.jpg",
+      "cpu": "Intel Core i7, 8th generation",
+      "ram": "16GB",
+      "storage": "512 GB SSD",
+      "screen": "13.3-inch, Full HD",
+      "brand": "dell",
+      "price": 1199,
+      "description": "The Dell XPS 13 is an absolutely brilliant laptop. The 2018 version rocks an 8th-generation Intel Core i5 or i7 processor and a bezel-less ‘Infinity Edge’ display, this Dell XPS 13 continues to be the most popular Windows laptop in the world. What’s more, there’s a wide range of customization options, so you can really make the Dell XPS 13 the best laptop for your needs. "
+    },
+    {
+      "id": 13,
+      "productName": "Asus ZenBook Flip S",
+      "image": "https://fdn.gsmarena.com/imgroot/news/20/02/maebook-x-pro-d-offic/-727/gsmarena_005.jpg",
+      "cpu": "Intel Core i7, 8th generation",
+      "ram": "16GB",
+      "storage": "512 GB SSD",
+      "screen": "13.3-inch, Full HD touchscreen",
+      "brand": "asus",
+      "price": 1399,
+      "description": "Asus has struck gold with its new refresh of its ZenBook Flip S 2-in-1 laptop. With a new Kaby Lake R 8th-generation processor powering the device, plenty of RAM and a super-fast PCIe SSD in certain models, this is an absolutely stunning laptop. Its 2-in-1 design means you can use it as both a laptop and a tablet, and while it's not as affordable as some other machines, if you have the budget you'll be really happy with this fantastic device."
+    },
+    {
+      "id": 14,
+      "productName": "Samsung Notebook 9",
+      "image": "https://fdn.gsmarena.com/imgroot/news/20/02/maebook-x-pro-d-offic/-727/gsmarena_005.jpg",
+      "cpu": "Intel Core i7, 8th generation",
+      "ram": "16GB",
+      "storage": "256 GB SSD",
+      "screen": "15-inch, Full HD",
+      "brand": "samsung",
+      "price": 1499,
+      "description": "While it may not have the best keyboard in the world, the Samsung Notebook 9 is still one of the best laptops you can buy in 2018. Packed with more horsepower than some MacBook Pros,but at a much lower price, Samsung has crafted a laptop that has just as much substance as it does style. Plus, on top of its killer specs, it’s lightweight and thin, making this one of the most portable 15-inch laptops you can buy today."
+    },
+    {
+      "productName": "SanzharLap2645",
+      "description": "qwereteyutiyuoipiuiyuyrteqweADSZDXGCHVJHGGDFSDGFHGFGDFSFDGasdhgsgdhgfhdfgdsfhdggffsfgdfgd",
+      "cpu": "intel core i10",
+      "ram": "16GB",
+      "image": "https://fdn.gsmarena.com/imgroot/news/20/02/maebook-x-pro-d-offic/-727/gsmarena_005.jpg",
+      "storage": "512 GB SSD",
+      "screen": "13.9-inch, 3K (3,000 x 2,080)",
+      "brand": "huawei",
+      "price": "2500",
+      "id": 15
+    }
+  ],
+  "todos": [
+    {
+      "userId": 2,
+      "id": 21,
+      "title": "buy sugar",
+      "status": "notcompleted"
+    },
+    {
+      "userId": 2,
+      "id": 28,
+      "title": "finish project",
+      "status": "notcompleted"
+    },
+    {
+      "userId": 2,
+      "id": 30,
+      "title": "go to gym",
+      "status": "completed"
+    },
+    {
+      "userId": 2,
+      "id": 32,
+      "title": "collect clash",
+      "status": "notcompleted"
+    },
+    {
+      "userId": 2,
+      "id": 33,
+      "title": "clean house",
+      "status": "notcompleted"
+    },
+    {
+      "userId": 2,
+      "id": 35,
+      "title": "run the silkroad",
+      "status": "completed"
+    },
+    {
+      "userId": 2,
+      "id": 36,
+      "title": "hangji",
+      "status": "completed"
+    },
+    {
+      "userId": 2,
+      "id": 37,
+      "title": "sunt cum tempora",
+      "status": "notcompleted"
+    },
+    {
+      "userId": 2,
+      "id": 38,
+      "title": "totam quia non",
+      "status": "notcompleted"
+    },
+    {
+      "userId": 2,
+      "id": 40,
+      "title": "totam atque quo nesciunt",
+      "status": "completed"
+    },
+    {
+      "userId": 3,
+      "id": 41,
+      "title": "aliquid amet impedit consequatur aspernatur placeat eaque fugiat suscipit",
+      "status": "notcompleted"
+    },
+    {
+      "userId": 3,
+      "id": 42,
+      "title": "rerum perferendis error quia ut eveniet",
+      "status": "notcompleted"
+    },
+    {
+      "userId": 3,
+      "id": 43,
+      "title": "tempore ut sint quis recusandae",
+      "status": "completed"
+    },
+    {
+      "userId": 3,
+      "id": 45,
+      "title": "velit soluta adipisci molestias reiciendis harum",
+      "status": "notcompleted"
+    },
+    {
+      "title": "kill you",
+      "id": 47,
+      "status": "notcompleted"
+    },
+    {
+      "title": "open project",
+      "id": 48,
+      "status": "notcompleted"
+    },
+    {
+      "title": "buy milk",
+      "id": 49,
+      "status": "notcompleted"
+    }
+  ],
+  "about": {
+    "title": "Page about us"
+  },
+  "posts": [
+    {
+      "id": 1,
+      "title": "1st post",
+      "body": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+    },
+    {
+      "id": 2,
+      "title": "2nd post",
+      "body": "Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
+    },
+    {
+      "id": 3,
+      "title": "3rd post",
+      "body": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable."
+    }
+  ]
+}
