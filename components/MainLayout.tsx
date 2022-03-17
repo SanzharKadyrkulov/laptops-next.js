@@ -238,6 +238,18 @@ export function MainLayout({ children, title = 'Next App' }) {
 									inputProps={{ 'aria-label': 'search' }}
 								/>
 							</Search>
+							<Typography
+								style={{ cursor: 'pointer' }}
+								variant='h6'
+								noWrap
+								component='div'
+								sx={{ display: { xs: 'none', sm: 'block' } }}
+								onClick={() => {
+									router.push('/admin');
+								}}
+							>
+								LOGO
+							</Typography>
 							<Box sx={{ flexGrow: 1 }} />
 							<Box sx={{ display: { xs: 'none', md: 'flex' } }}>
 								{/* <IconButton
